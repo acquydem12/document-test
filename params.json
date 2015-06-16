@@ -1,1 +1,1 @@
-{"name":"Document-test","tagline":"","body":"= Hello, AsciiDoc!\r\nDoc Writer <doc@example.com>\r\n\r\nAn introduction to http://asciidoc.org[AsciiDoc].\r\n\r\n== First Section\r\n\r\n* item 1\r\n* item 2\r\n\r\n[source,ruby]\r\nputs \"Hello, World!\"","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Document-test-1","tagline":"","body":"= Hello, AsciiDoc!\r\nDoc Writer <doc@example.com>\r\n\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
