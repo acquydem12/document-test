@@ -1,4 +1,0 @@
-# Base Table Request Handler
-Subscribe
-You can subscribe the change of list available tables by send to server request “subscribe”. SFS will be able to send an update of that list over you. 
-Request subscribe be accepted over:
